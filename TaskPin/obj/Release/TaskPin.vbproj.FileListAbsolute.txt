@@ -1,0 +1,12 @@
+C:\Users\Funym\Documents\Visual Studio 2022\Projects\TaskPin\bin\Release\TaskPin.exe.config
+C:\Users\Funym\Documents\Visual Studio 2022\Projects\TaskPin\bin\Release\TaskPin.exe
+C:\Users\Funym\Documents\Visual Studio 2022\Projects\TaskPin\bin\Release\TaskPin.pdb
+C:\Users\Funym\Documents\Visual Studio 2022\Projects\TaskPin\bin\Release\TaskPin.xml
+C:\Users\Funym\Documents\Visual Studio 2022\Projects\TaskPin\obj\Release\TaskPin.vbproj.AssemblyReference.cache
+C:\Users\Funym\Documents\Visual Studio 2022\Projects\TaskPin\obj\Release\TaskPin.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Funym\Documents\Visual Studio 2022\Projects\TaskPin\obj\Release\TaskPin.Resources.resources
+C:\Users\Funym\Documents\Visual Studio 2022\Projects\TaskPin\obj\Release\TaskPin.vbproj.GenerateResource.cache
+C:\Users\Funym\Documents\Visual Studio 2022\Projects\TaskPin\obj\Release\TaskPin.vbproj.CoreCompileInputs.cache
+C:\Users\Funym\Documents\Visual Studio 2022\Projects\TaskPin\obj\Release\TaskPin.exe
+C:\Users\Funym\Documents\Visual Studio 2022\Projects\TaskPin\obj\Release\TaskPin.xml
+C:\Users\Funym\Documents\Visual Studio 2022\Projects\TaskPin\obj\Release\TaskPin.pdb
